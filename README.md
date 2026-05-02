@@ -4,6 +4,7 @@ Data Scientist IBM Coursera Capstone Course 2026
 This repository contains all the files generated during the Capstone Project of the IBM Data Science Professional Certificate. It includes the laboratories for Data Collection, Web Scraping, Exploratory Data Analysis, SQL, Forum Map location, Machine Learning, and Dashboard/Presentation.
 
 The structure of the repository follows the chronological order in which the laboratories were developed throughout the course, to facilitate project traceability and reproducibility.
+
 DATA COLLECTION:
 1. Data Collection (REST API). Jupyter Notebook
 2. Raw API data. CSV file
