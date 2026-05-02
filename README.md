@@ -11,18 +11,23 @@ DATA COLLECTION:
 3. Cleaned API data. CSV file
 4. Data collection from Wikipedia. Jupyter Notebook
 5. Data set collected. CSV file
+
 DATA WRANGLING:
 6. Data Wrangling. Notebook
 7. Data set collected. CSV file
+
 EDA:
 8. SQL EDA Notebook
 9. Python data visualization. Jupyter Notebook
 10. Features engineering data. CSV file
+
 FOLIUM ANALYSIS:
 11. Location analysis with Folium. Jupyter Notebook
 12. SpaceX sites locations (longitude and latitude). CSV file
+
 DASHBOARD WITH PLOTLY DASH
-13. Jupyter Notebook
+13. Jupyter Notebook additional file, containing the instructions to run the Interactive Dashboard in Jupyter Notebook
 14. Python script
+
 MACHINE LEARNING PREDICTIONS
-15. Jupyter Notebook
+15. Jupyter Notebook for the analysis of the informations with 4 classification methods 
